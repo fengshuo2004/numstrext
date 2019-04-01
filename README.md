@@ -1,7 +1,7 @@
 # Scratch Number String Extension
 For documentation, please see the [wiki page](https://github.com/fengshuo2004/numstrext/wiki) (under construction)
 
-For main project, please see the [main repository](https://github.com/fengshuo2004/fengshuo2004.github.io)
+For main project and source code, please see the [main repository](https://github.com/fengshuo2004/fengshuo2004.github.io)
 
 开发文档请见 [wiki页](https://github.com/fengshuo2004/numstrext/wiki) (建设中)
 
